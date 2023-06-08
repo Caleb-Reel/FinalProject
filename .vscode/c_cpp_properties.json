@@ -1,0 +1,32 @@
+{
+    "configurations": [
+      {
+        "name": "windows-gcc-x64",
+        "includePath": [
+          "${workspaceFolder}/**"
+        ],
+        "defines": [],
+        "macFrameworkPath": [
+          ""
+        ],
+        "compilerPath": "/usr/bin/clang",
+        "cStandard": "${default}",
+        "cppStandard": "${default}",
+        "intelliSenseMode": "windows-msvc-x64"
+      },
+      {
+        "name": "Window64",
+        "includePath": [
+          "${workspaceFolder}/**"
+        ],
+        "defines": [
+          "_DEBUG",
+          "UNICODE",
+          "_UNICODE"
+        ],
+        "compilerPath": "/usr/bin/clang",
+        "intelliSenseMode": "windows-msvc-x64"
+      }
+    ],
+    "version": 4
+  }
