@@ -3,6 +3,15 @@
 #include <vector>
 #include <algorithm>
 
+/* 
+    File: main.cpp 
+    Description: this is program takes data about multiple mountains organizes it and then prints out all the info about each mountain as well as outputs the shortest
+    mountain
+    Author: Caleb Reel
+    Email: calebr4493@student.vvc.edu 
+    Date: 06/08/2023
+*/
+
 
 using namespace std;
 
